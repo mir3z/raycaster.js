@@ -1,0 +1,18 @@
+{
+  "name": "raycaster.js",
+  "version": "1.0.0",
+  "description": "Raycaster engine in JavaScript",
+  "scripts": {
+    "demo:watch": "webpack-dev-server -d --progress --colors --hot --inline --content-base=demo --config ./demo/demo.webpack.config.js",
+    "demo:prod": "webpack --progress -p --config ./demo/demo.webpack.config.js"
+  },
+  "author": "mirz <mirz.hq@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
