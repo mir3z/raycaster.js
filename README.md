@@ -2,6 +2,9 @@
 [Raycasting](https://en.wikipedia.org/wiki/Ray_casting) engine in JavaScript
 
 ## Demos
+* [Simple](https://cdn.rawgit.com/mir3z/raycaster.js/master/demo/simple/index.html)
+* [Maze](https://cdn.rawgit.com/mir3z/raycaster.js/master/demo/maze/index.html)
+* [Solid](https://cdn.rawgit.com/mir3z/raycaster.js/master/demo/solid/index.html)
 
 ## Resources
 * [Ray-Casting Tutorial](http://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/) by F. Permadi
