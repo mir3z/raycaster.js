@@ -15,6 +15,7 @@ class Texture {
             this.image.onload = () => resolve(this);
             this.image.onerror = error => reject(error);
 
+            this.image.crossOrigin = "Anonymous";
             this.image.src = this.path;
         };
 
